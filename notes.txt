@@ -1,0 +1,18 @@
+admin:
+	username: admin
+	password: admin
+
+delivery_crew:
+	username: delivery
+	password: Lemon@786!
+
+customer: 
+	username: customer
+	password: Lemon@786!
+	token:7c4bcafda3d814a6ed1053d7629db342e5841fa6
+
+Dependencies:
+    pip install djoser
+
+To execute:
+    python manage.py runserver
